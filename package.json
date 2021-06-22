@@ -1,0 +1,19 @@
+{
+  "name": "electron-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "del": "^6.0.0",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "multer": "^1.4.2"
+  }
+}
